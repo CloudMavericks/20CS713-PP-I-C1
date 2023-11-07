@@ -1,6 +1,3 @@
 [submodule "SmartLocate.Backend"]
 	path = SmartLocate.Backend
 	url = https://github.com/CloudMavericks/SmartLocate.Backend.git
-[submodule "SmartLocate.Frontend"]
-	path = SmartLocate.Frontend
-	url = https://github.com/CloudMavericks/SmartLocate.Frontend.git
