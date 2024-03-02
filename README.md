@@ -2,10 +2,10 @@
 
 This is the base repository which contains the submodules for the project SmartLocate: Real-time College Bus Tracking Solution. The submodules are as follows:
 
-| S.No | Submodule Name             | Repository Link						       |
+| S.No | Submodule Name             | Repository Link						                           |
 |------|----------------------------|------------------------------------------------------------------|
 | 1    | SmartLocate.Backend        | https://github.com/CloudMavericks/SmartLocate.Backend.git        |
-| 2    | SmartLocate.Desktop.Admin  | https://github.com/CloudMavericks/SmartLocate.Desktop.Admin.git  |
+| 2    | SmartLocate.Admin          | https://github.com/CloudMavericks/SmartLocate.Admin.git          |
 | 3    | SmartLocate.Frontend       | https://github.com/CloudMavericks/SmartLocate.Frontend.git       |
 
 ## Team Members

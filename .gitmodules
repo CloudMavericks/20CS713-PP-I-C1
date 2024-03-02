@@ -4,6 +4,6 @@
 [submodule "SmartLocate.Frontend"]
 	path = SmartLocate.Frontend
 	url = https://github.com/CloudMavericks/SmartLocate.Frontend.git
-[submodule "SmartLocate.Desktop.Admin"]
-	path = SmartLocate.Desktop.Admin
-	url = https://github.com/CloudMavericks/SmartLocate.Desktop.Admin.git
+[submodule "SmartLocate.Admin"]
+	path = SmartLocate.Admin
+	url = https://github.com/CloudMavericks/SmartLocate.Admin.git
